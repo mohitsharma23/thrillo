@@ -1,0 +1,23 @@
+.searchBar h1 {
+  margin: 6px 0 60px 0;
+  text-transform: uppercase;
+  font-size: 42px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.searchBar h3 {
+  color: #fff;
+}
+
+.inputBtn button {
+  background-color: orange !important;
+  border-color: orange !important;
+  padding: 8px;
+  width: 120px;
+}
+
+.form-control {
+  opacity: 0.8;
+  padding: 20px !important;
+}

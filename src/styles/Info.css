@@ -1,0 +1,22 @@
+.infoClass {
+  padding: 25px 0;
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head h5 {
+  font-weight: bold;
+}
+
+h6 {
+  text-align: left;
+}
+
+p {
+  font-size: 12px;
+  text-align: left;
+}

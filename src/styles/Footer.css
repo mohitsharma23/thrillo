@@ -1,0 +1,46 @@
+.footer {
+  background-color: #303740;
+  padding: 50px 0 20px 0;
+}
+
+.footer .container {
+  max-width: 1050px;
+}
+
+.footer h2 {
+  text-align: left;
+  color: rgb(255, 196, 0);
+}
+
+.footer h6 {
+  color: white;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+  text-align: left;
+  padding: 3px;
+  font-size: 14px;
+}
+
+ul li a {
+  color: #919191;
+}
+
+ul li a:hover {
+  text-decoration: none;
+  color: #e0e0e0;
+}
+
+.special {
+  color: orange;
+}
+
+.extraLinks a:hover {
+  text-decoration: none;
+  color: white;
+}

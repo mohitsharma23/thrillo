@@ -1,0 +1,12 @@
+.sliderBg {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.sliderBg h3 {
+  padding: 0 0 30px;
+}
+
+.sliderBg .slider {
+  margin-bottom: 30px;
+}

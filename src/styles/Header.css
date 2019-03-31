@@ -1,0 +1,55 @@
+.bgStyle {
+  height: 90vh;
+  background-size: cover;
+  background-image: url(../images/bg_image.jpg);
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: orange;
+}
+
+.searchBar {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown button {
+  background-color: transparent;
+  border: none;
+}
+
+.dropdown button:hover {
+  background-color: transparent;
+  border: none;
+  color: orange;
+}
+
+.dropdown {
+  position: static !important;
+}
+
+.dropdown .dropdown-menu {
+  width: 100%;
+  background-color: rgb(49, 49, 49);
+  opacity: 0.8;
+}
+
+.dropdown .dropdown-menu .dropdown-header {
+  color: orange;
+}
+
+.dropdown .dropdown-menu .dropdown-item {
+  color: #fff;
+}
+
+.dropdown .dropdown-menu .dropdown-item:hover {
+  background-color: #505050;
+  color: orange;
+}

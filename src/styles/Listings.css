@@ -1,0 +1,15 @@
+.listMain {
+  background-color: #f5f5f5;
+}
+
+.listMain .container {
+  max-width: 900px;
+}
+
+.listMain h4 {
+  padding: 50px 0 20px 0;
+}
+
+.cityCol {
+  padding: 0 !important;
+}

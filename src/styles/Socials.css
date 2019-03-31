@@ -1,0 +1,22 @@
+.social {
+  background-color: #272d35;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+}
+
+.social a {
+  color: #919191;
+  padding: 5px;
+}
+
+.social a:hover {
+  color: #e0e0e0;
+}
+
+.special {
+  color: orange;
+}
